@@ -4,7 +4,7 @@
 To run the notebook for this project:
 
 1. **Open in Google Colab**  
-   - Click the notebook file (e.g., `notebooks/your_notebook.ipynb`) in this repository.
+   - Click the notebook file (e.g., `/Jigsaw_Toxic_Identification.ipynb`) in this repository.
    - Click the "Open in Colab" button at the top (if available), or copy the file URL and open [Google Colab](https://colab.research.google.com/).
    - In Colab, go to **File > Open notebook > GitHub tab** and paste the repository URL, or paste the notebook file URL.
 

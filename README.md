@@ -20,6 +20,7 @@ To run the notebook for this project:
 
 - A Google account for using Colab.
 - No local setup is required unless you run the notebook locally. If so, ensure you have Python and Jupyter installed.
+- kaggle access token file - kaggle.json will be required and will need to be uploaded to download the dataset.
 
 ---
 
